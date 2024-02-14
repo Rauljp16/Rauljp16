@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <h2>Raúl</h2> 👋</h1>
+</div>
+<img src="https://github.com/Rauljp16/Rauljp16/assets/110561721/8f7ba3c6-d5a4-4691-85b3-2e2830193f85">
 
-<!--
-**Rauljp16/Rauljp16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⭐ Github Star ⭐ 
+- 💻 FrontEnd developer
+- 
+<br>
+
