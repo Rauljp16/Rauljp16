@@ -18,7 +18,7 @@
 <div align="left">
   <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">&emsp;&emsp;
   <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">&emsp;&emsp;
-  <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg">&emsp;&emsp;
+  <img width="40px" src="https://github.com/Rauljp16/Rauljp16/blob/main/imagenes/angularjs.svg">&emsp;&emsp;
   <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> &emsp;&emsp;
   <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">&emsp;&emsp;
   <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">&emsp;&emsp;
