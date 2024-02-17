@@ -15,7 +15,7 @@
 
 <h2 align="left"> Mis habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <br>
-<div align="left">
+<!-- <div align="left">
   <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">&emsp;&emsp;
   <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">&emsp;&emsp;
   <img width="40px" src="https://github.com/Rauljp16/Rauljp16/blob/main/imagenes/angularjs.svg">&emsp;&emsp;
@@ -24,13 +24,18 @@
   <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">&emsp;&emsp;
   <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">&emsp;&emsp;
   <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg">&emsp;&emsp;
+</div> -->
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=html,,css,,js,,react,,angular" />
+  <br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,,git,,github,,vscode,,vite" />
 </div>
-
 
 <h2> Contacto <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <br>
-<a href = 'https://www.linkedin.com/in/ra%C3%BAl-jerez-pag%C3%A1n-35570927a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &emsp;&emsp;
-<a href = 'https://www.github.com/Rauljp16/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>&emsp;&emsp;
+<a href = 'https://www.linkedin.com/in/ra%C3%BAl-jerez-pag%C3%A1n-35570927a/'> <img src="https://skillicons.dev/icons?i=linkedin" /></a> &emsp;&emsp;
+<a href = 'https://www.github.com/Rauljp16/'> <img src="https://skillicons.dev/icons?i=github" /></a>&emsp;&emsp;
 
 
 
