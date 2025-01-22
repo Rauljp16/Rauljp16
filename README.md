@@ -18,7 +18,7 @@
 <h2 align="left"> Mis habilidades <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw3b29sZHd6ZXUxZ2xtbzRsZnpncGc4M291ZGk1ajd1b3NvOXgzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rkcO4GYaWlHnvXj2XE/giphy.gif" width = 50px> </h2>
 <br>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,,react,,angular,,sass,,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,,css,js,,react,,angular,,sass,,nodejs" />
   <br/>
   <br/>
   <img src="https://skillicons.dev/icons?i=tailwind,,git,,github,,vscode,,vite,,jest,,typescript" />
