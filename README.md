@@ -31,7 +31,7 @@
 <a href="mailto:raul_astra16@hotmail.com">
   <img src="2.png" alt="Correo Electrónico" width="48" height="48">
 </a>
-<img src="2.png" width="48" height="48" /></a>&emsp;&emsp; 
+ 
 
 
 
