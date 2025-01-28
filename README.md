@@ -1,5 +1,5 @@
 
-<h1>Hola, soy Raúl <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1>Hola, soy Raúl. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&vCenter=true&random=false&width=435&lines=Gracias+por+visitar+mi+GitHub." alt="Typing SVG" />
 
 <img src="1.jpg" width="600" height="200" >
@@ -21,7 +21,7 @@
     <img src="https://skillicons.dev/icons?i=html,,css,,js,,react,,angular,,sass,,nodejs" />
   <br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,,git,,github,,vscode,,vite,,jest,,typescript" />
+  <img src="https://skillicons.dev/icons?i=tailwind,,git,,github,,vscode,,vite,,jest,,typescript,,nextjs" />
 </div>
 
 <h2> Contacto <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
