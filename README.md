@@ -12,6 +12,7 @@
 - 🤝 Trabajo en equipo 
 - 🚀 En constante crecimiento
 - 🧐 Dato curioso: Me encanta el bricolaje
+- 💻 <a href = 'https://www.rauljp.es'> www.rauljp.es</a>
   
 <br>
 
@@ -20,7 +21,9 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,,css,,js,,react,,angular,,sass" />
   <br/>
+  <br/>
   <img src="https://skillicons.dev/icons?i=jest,,typescript,,nextjs,,nodejs,,vue,,nuxt" />
+  <br/>
   <br/>
   <img src="https://skillicons.dev/icons?i=tailwind,,git,,github,,vscode,,vite" />
 </div>
