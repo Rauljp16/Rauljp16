@@ -18,10 +18,11 @@
 <h2 align="left"> Mis habilidades <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw3b29sZHd6ZXUxZ2xtbzRsZnpncGc4M291ZGk1ajd1b3NvOXgzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rkcO4GYaWlHnvXj2XE/giphy.gif" width = 50px> </h2>
 <br>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,,css,,js,,react,,angular,,sass,,nodejs,,vue,,nuxt" />
+    <img src="https://skillicons.dev/icons?i=html,,css,,js,,react,,angular,,sass" />
   <br/>
+  <img src="https://skillicons.dev/icons?i=jest,,typescript,,nextjs,,nodejs,,vue,,nuxt" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,,git,,github,,vscode,,vite,,jest,,typescript,,nextjs" />
+  <img src="https://skillicons.dev/icons?i=tailwind,,git,,github,,vscode,,vite" />
 </div>
 
 <h2> Contacto <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
